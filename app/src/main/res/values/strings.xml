@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Beato</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string-array name="reading_type">
+        <item>Choose Reading Type</item>
+        <item>Fasting</item>
+        <item>Post Breakfast</item>
+        <item>Pre Lunch</item>
+        <item>Post Lunch</item>
+        <item>Pre Dinner</item>
+        <item>Post Dinner</item>
+        <item>Random</item>
+    </string-array>
+</resources>
